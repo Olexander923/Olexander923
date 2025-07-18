@@ -4,7 +4,7 @@ I'm a Java developer with ambitions to be better every day.
 
 <div align="left"> <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015" width="40" height="40"/>  ## A Little About Me
 
-![Git](https://github.com/user-attachments/assets/59903f05-1d73-48e7-b78e-c3b251c77337  "Git") Education: JavaRush
+<div align="left"> <img src="https://github.com/user-attachments/assets/59903f05-1d73-48e7-b78e-c3b251c77337 width="40" height="40"/>  Education: JavaRush
 
 Currently learning: Spring, Java, Algorithms and Data Structures
 
