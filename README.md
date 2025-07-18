@@ -2,7 +2,7 @@
 
 I'm a Java developer with ambitions to be better every day.
 
-<div align="left"> <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015" width="40" height="40"  ## A Little About Me
+<div align="left"> <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015" width="40" height="40"/>  ## A Little About Me
 
 ![Git](https://github.com/user-attachments/assets/59903f05-1d73-48e7-b78e-c3b251c77337  "Git") Education: JavaRush
 
@@ -13,7 +13,7 @@ My current goals:
 - Improve my knowledge of algorithms and data structures.
 - Write my code in a more concise and clean way.
 
- ![Git](https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1  "Git") ## Technologies Ownership
+ div align="left"> <img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="40" height="40"/> ## Technologies Ownership
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg " title="Java" alt="Java" width="40" height="40"/>
