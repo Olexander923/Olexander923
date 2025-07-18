@@ -6,7 +6,8 @@ I'm a Java developer with ambitions to be better every day.
 
 <div align="left"> <img src="https://github.com/user-attachments/assets/59903f05-1d73-48e7-b78e-c3b251c77337" width="40" height="40"/>  Education: JavaRush
 
-Currently learning: Spring, Java, Algorithms and Data Structures
+<div align="left"> <img src=<img width="512" height="512" alt="free-icon-skills-1876460" src="https://github.com/user-attachments/assets/e2b961bc-b1bf-44bd-8684-78550f227fa0" />
+/> Currently learning: Spring, Java, Algorithms and Data Structures
 
 My current goals:
 - Finish my own application with Spring.
