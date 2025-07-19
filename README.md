@@ -25,7 +25,7 @@ I'm a Java developer with ambitions to be better every day.
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg " title="Maven" alt="Maven" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg " title="Docker" alt="Docker" width="40" height="40"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg)" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-original-wordmark.svg " title="JUnit" alt="JUnit" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg " title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original-wordmark.svg " title="Redis" alt="Redis" width="40" height="40"/>
