@@ -16,7 +16,7 @@ My current goals:
 
  <div align="left"> <img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="40" height="40"/> 
  **Technologies Ownership**
- </div>
+ 
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg " title="Java" alt="Java" width="40" height="40"/>
