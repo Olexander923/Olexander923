@@ -14,7 +14,9 @@ My current goals:
 - Improve my knowledge of algorithms and data structures.
 - Write my code in a more concise and clean way.
 
- <div align="left"> <img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="40" height="40"/> ## Technologies Ownership
+ <div align="left"> <img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="40" height="40"/> 
+ <span style="font-size: 20px; font-weight: bold;">Technologies Ownership</span>
+ </div>
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg " title="Java" alt="Java" width="40" height="40"/>
