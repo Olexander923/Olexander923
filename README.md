@@ -24,6 +24,7 @@ I'm a Java developer with ambitions to be better every day.
   <img src="https://github.com/user-attachments/assets/c70c96d8-d1ce-44e4-9f94-674b5f391375 " title="Spring" alt="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg " title="Maven" alt="Maven" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg " title="Docker" alt="Docker" width="40" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-original-wordmark.svg " title="JUnit" alt="JUnit" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg " title="MySQL" alt="MySQL" width="40" height="40"/>
