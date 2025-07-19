@@ -15,7 +15,8 @@ My current goals:
 - Write my code in a more concise and clean way.
 
  <div align="left"> <img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="40" height="40"/> 
- **Technologies Ownership**
+  <span style="font-weight: bold;">Technologies Ownership</span>
+ </div>
  
 
 <div align="left">
