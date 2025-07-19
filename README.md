@@ -31,7 +31,6 @@ I'm a Java developer with ambitions to be better every day.
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original-wordmark.svg " title="Redis" alt="Redis" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original-wordmark.svg " title="SQLite" alt="SQLite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tomcat/tomcat-line-wordmark.svg " title="Tomcat" alt="Tomcat" width="40" height="40"/>
-  <img src="https://yandex.ru/images/search?img_url=http%3A%2F%2Fi.pinimg.com%2F736x%2F49%2F4e%2F2e%2F494e2ef858fa149461fcb71d317a1049.jpg&lr=62&pos=0&rpt=simage&source=serp&text=mockito%20%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B0"
-  title="Mockito" alt="Mockito" width="40" height="40"/>
+  <img src=http://i.pinimg.com/736x/49/4e/2e/494e2ef858fa149461fcb71d317a1049.jpg "title="Mockito" alt="Mockito" width="40" height="40"/>
 </div>
 
