@@ -2,7 +2,7 @@
 
 I'm a Java developer with ambitions to be better every day.
 
-## <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015" width="30" height="30" style="vertical-align: middle;" /> **A Little About Me**
+## <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015 " width="30" height="30" style="vertical-align: middle;" /> **A Little About Me**
 
 <img src="https://github.com/user-attachments/assets/59903f05-1d73-48e7-b78e-c3b251c77337" width="30" height="30" style="vertical-align: middle;" /> **Education:** JavaRush
 
@@ -13,8 +13,8 @@ I'm a Java developer with ambitions to be better every day.
 - Improve my knowledge of algorithms and data structures.
 - Write my code in a more concise and clean way.
 
-<img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="30" height="30" style="vertical-align: middle;" /> ****
-<span style="vertical-align: middle;">Technologies Ownership</span>
+<img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="30" height="30" style="vertical-align: middle;" /> **Technologies Ownership**
+
 
 
 <div align="left">
