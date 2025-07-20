@@ -13,8 +13,8 @@ I'm a Java developer with ambitions to be better every day.
 - Improve my knowledge of algorithms and data structures.
 - Write my code in a more concise and clean way.
 
-<img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="30" height="30" style="vertical-align: middle;" /> **Technologies Ownership**
-<span style="vertical-align: middle;">
+<img src="https://github.com/user-attachments/assets/23bf2d90-701c-4fe5-beab-dfac608cafc1" width="30" height="30" style="vertical-align: middle;" /> ****
+<span style="vertical-align: middle;">Technologies Ownership</span>
 
 
 <div align="left">
