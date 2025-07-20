@@ -18,10 +18,12 @@ I'm a Java developer with ambitions to be better every day.
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg " title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/a71476f4-ebab-401f-a55e-c3ccdbecb5f9 " title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/dcc7c708-f51b-4142-8eda-1c864e3baa32 " title="CSS" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/fb884171-cd71-4a41-aa29-a012bc409fbd " title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/c70c96d8-d1ce-44e4-9f94-674b5f391375 " title="Spring" alt="Spring" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/a71476f4-ebab-401f-a55e-c3ccdbecb5f9 " title="Git" alt="Git" width="40" height="40"/>
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/dcc7c708-f51b-4142-8eda-1c864e3baa32 " title="CSS" alt="CSS" width="40" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg " title="Maven" alt="Maven" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original-wordmark.svg " title="Docker" alt="Docker" width="40" height="40"/>
   
