@@ -2,7 +2,7 @@
 
 I'm a Java developer with ambitions to be better every day.
 <p>
-## <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015 " width="30" height="30" style="vertical-align: middle" >
+## <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015 " width="30" height="30" style="vertical-align: middle;" >
 <strong>A Little About Me</strong>
 </p>
 
