@@ -1,8 +1,10 @@
 ## How's it going? I'm Alexander
 
 I'm a Java developer with ambitions to be better every day.
-
-## <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015 " width="30" height="30" style="vertical-align: middle" /> **A Little About Me**
+<p>
+## <img src="https://github.com/user-attachments/assets/33a3ce11-ba23-4396-b125-f8c334848015 " width="30" height="30" style="vertical-align: middle" >
+<strong>A Little About Me</strong>
+</p>
 
 <img src="https://github.com/user-attachments/assets/59903f05-1d73-48e7-b78e-c3b251c77337 " width="30" height="30" style="vertical-align: middle;" /> **Education:** JavaRush
 
